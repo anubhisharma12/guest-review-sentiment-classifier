@@ -1,1 +1,0 @@
-Backend API using FastAPI.
